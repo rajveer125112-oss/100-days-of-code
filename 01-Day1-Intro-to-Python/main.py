@@ -1,2 +1,3 @@
-print("Hello World")
-print(5)
+print("Hello world of python")
+print("My name is Rajveer and my age is ")
+print(18)
