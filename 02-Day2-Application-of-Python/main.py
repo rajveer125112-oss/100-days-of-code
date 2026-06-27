@@ -23,3 +23,6 @@ for (x,y,w,h) in faces:
 #Displaying The Output Image
 cv2.imshow('img', img)
 cv2.waitKey()
+
+
+#I learned possibilities of python what can we create from python and it's applications in real world. I will learn python to create these type of projects in future.
