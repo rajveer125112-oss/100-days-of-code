@@ -1,8 +1,9 @@
-import pandas  # This is an example of external module
-import hashlib  # This is an example of built in module
+#built in modules
+import math
 
-print("Hi")
+#external modules
+import pandas
 
-# Dont worry about how to use these modules just yet!
-pandas.read_csv("one.csv")
-m = hashlib.sha256()
+#Today I learned about types of modules and how to use them in python. I installed an external module called pandas using pip and imported it into my code.
+
+#I learned how I can use these modules for my future projects to make my code more efficient and organized.
