@@ -18,3 +18,5 @@ d=32.1
 
 print(c+d)
 print(type(c+d))
+
+#Adding float and int eventually gives us float this is called implicit typecasting where float has an upper edge(Higher Order)
