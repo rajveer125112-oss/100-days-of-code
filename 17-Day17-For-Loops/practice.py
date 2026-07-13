@@ -22,6 +22,7 @@ for i in list1:
         print("I hate Orange")
     print(i)
 
-for i in range(1,16,2):
+for i in range(1,16,2): #It means it will print numbers from 1 to 15 with common difference of 2 i.e. step "2"
     print(i)
+
 
