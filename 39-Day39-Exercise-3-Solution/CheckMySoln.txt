@@ -1,0 +1,1 @@
+My solution is in https://vscode.dev/github/rajveer125112-oss/100-days-of-code/blob/main/27-Day27-Exercise-3/practice.py
