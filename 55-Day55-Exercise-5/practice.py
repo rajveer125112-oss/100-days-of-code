@@ -1,12 +1,10 @@
-import secrets
+import random
 
 a=input("Enter your move (snake/water/gun) =")
 comp=["snake","water","gun"]
 
-computer=secrets.choice(comp)
-
-
-
+computer=random.choice(comp)
+print(computer)
 
 if computer==a:
     print("draw")
